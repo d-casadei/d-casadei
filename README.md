@@ -71,22 +71,12 @@ Me chamo Davi Casadei Almeida, apaixonado por dados procuro cada dia mais evolui
 <br/>
 <br/>
 
-### 🌱 Em aprendizagem
-- Python: Selenium
-- Python: Pyautogui
+<div align="left">
 
-### 🟡 Iniciante
-- SQL
-- Python: Pandas
+| 🌱 Em Aprendizagem | 🟡 Iniciante | 🟠 Intermediário | 🔴 Avançado | 🔭 Planos Futuros |
+|--------------------|--------------|------------------|-------------|-----------|
+| Py: Selenium | SQL | Py: Pyautogui | Power BI | Databricks |
+| Py: Pyautogui | Py: Pandas |  | Power Query | Selenium |
+|  |  |  |  | Py: Pyautogui |
 
-### 🟠 Intermediário
-- Python: Pyautogui
-
-### 🔴 Avançado
-- Power BI
-- Power Query
-
-### 🔭 Futuro
-- Databricks
-- Selenium
-- Pyautogui
+</div>
