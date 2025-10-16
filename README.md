@@ -77,6 +77,6 @@ Me chamo Davi Casadei Almeida, apaixonado por dados procuro cada dia mais evolui
 |--------------------|--------------|------------------|-------------|-----------|
 | Py: Selenium | SQL | Py: Pyautogui | Power BI | Databricks |
 | Py: Pyautogui | Py: Pandas |  | Power Query | Selenium |
-|  |  |  |  | Py: Pyautogui |
+|  |  |  |  |  |
 
 </div>
